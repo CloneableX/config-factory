@@ -15,4 +15,4 @@ polybar example
 
 ### i3 默认 status bar
 
-需要为 polybar 创建一个启动的 shell 脚本，具体参照 [launch.sh](./launch.sh]，并在 i3 的配置文件中配置默认启动，并移除 i3 默认的 bar 即可。
+需要为 polybar 创建一个启动的 shell 脚本，具体参照 [launch.sh](./launch.sh)，并在 i3 的配置文件中配置默认启动，并移除 i3 默认的 bar 即可。
