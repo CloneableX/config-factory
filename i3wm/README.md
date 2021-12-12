@@ -13,7 +13,7 @@ apt install i3
 - [picom](https://github.com/yshui/picom) (render terminal)
 - [rime](../rime) (chinese input method)
 - chromium (browser)
-- polybar(../polybar)
+- [polybar](../polybar)
 
 ## 配置说明
 
