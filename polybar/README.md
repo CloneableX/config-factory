@@ -12,3 +12,7 @@ cd polybar && ./build.sh
 polybar example
 ```
 在运行 `polybar example` 之前，需要将 polybar 的创建的默认文件拷贝至 `.config/polybar` 目录下，ubuntu 中的默认配置文件的地址是 `/usr/local/share/doc/polybar/config`。
+
+### i3 默认 status bar
+
+需要为 polybar 创建一个启动的 shell 脚本，具体参照 [launch.sh](./launch.sh]，并在 i3 的配置文件中配置默认启动，并移除 i3 默认的 bar 即可。
